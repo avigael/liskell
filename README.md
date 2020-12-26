@@ -1,5 +1,7 @@
 # Liskell Language
 
+This project is written in Haskell. To run this project please [install](https://www.haskell.org/downloads/#minimal "Haskell Installation") Haskell on your machine.
+
 Liskell is a simple example of the Lisp family of programming languages. Liskell is an untyped lambda calculus with useful extensions and different syntax.
 
 ## Testing
